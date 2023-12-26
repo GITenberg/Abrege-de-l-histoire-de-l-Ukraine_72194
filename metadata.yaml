@@ -1,0 +1,40 @@
+_repo: Abrege-de-l-histoire-de-l-Ukraine_72194
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hrushevskyi, Mykhailo
+    aliases:
+    - Gruševskij, Mihail Sergeevič
+    - Hruschewskyj, M.
+    - Hrushevsky, Michael
+    - Грушевський, Михайло Сергійович
+    - Hruchevsky, M.
+    birthdate: 1866
+    deathdate: 1934
+    gutenberg_agent_id: '56586'
+    url: http://www.gutenberg.org/2009/agents/56586
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Mykhailo_Hrushevsky
+    - https://fr.wikipedia.org/wiki/Mykha%C3%AFlo_Hrouchevsky
+description: ''
+gutenberg_issued: '2023-11-21'
+identifiers:
+  gutenberg: '72194'
+  lccn: '21007717'
+language: fr
+pgterms:marc904: https://archive.org/details/abrege-de-lhistoirede-lukraine--michel-hruchevsky-paris-1920
+pgterms:marc905: 20220412000407gruevskij
+pgterms:marc906: '1920'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aParis :$bM. Giart et E. Brière, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ukraine -- History'
+- !lcc 'DK'
+- GITenberg
+title: Abrégé de l'histoire de l'Ukraine
+url: http://www.gutenberg.org/ebooks/72194
